@@ -31,7 +31,7 @@ spec:
       serviceAccountName: opentelemetry-demo
       containers:
         - name: productcatalogservice
-          image: kubepintu/product-catalog:14065438072
+          image: kubepintu/product-catalog:14065865978
           imagePullPolicy: IfNotPresent
           ports:
             
